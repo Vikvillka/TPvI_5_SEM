@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebD: Summation & Random Series</title>
+</head>
+<body>
+    <h1>WebD: Сумма двух чисел и Генерация случайного ряда</h1>
+
+  
+    <form id="sumForm">
+        <h2>Сумма двух чисел</h2>
+        <label for="x">Введите значение X:</label>
+        <input type="number" id="x" name="x" required><br><br>
+        <label for="y">Введите значение Y:</label>
+        <input type="number" id="y" name="y" required><br><br>
+        <button type="submit">Вычислить сумму</button>
+    </form>
+
+    <h2>Результат суммы: <span id="sumResult"></span></h2>
+
+   
+    <form id="randomForm">
+        <h2>Генератор случайного ряда чисел</h2>
+        <label for="n">Введите значение N:</label>
+        <input type="number" id="n" name="n" required><br><br>
+        <button type="submit">Сгенерировать ряд</button>
+    </form>
+
+    <h2>Сгенерированный ряд: <span id="randomResult"></span></h2>
+
+    <script>
+        // 1
+        document.getElementById('sumForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const x = document.getElementById('x').value;
+            const y = document.getElementById('y').value;
+
+            const xhr = new XMLHttpRequest();
+            xhr.open('POST', 'http://localhost:3000', true); 
+            xhr.setRequestHeader('X-Value-x', x);
+            xhr.setRequestHeader('X-Value-y', y);
+
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    const z = xhr.getResponseHeader('X-Value-z');
+                    document.getElementById('sumResult').textContent = z;
+                } else {
+                    document.getElementById('sumResult').textContent = 'Ошибка при обработке запроса';
+                }
+            };
+            xhr.send();
+        });
+
+        // 2
+        document.getElementById('randomForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const n = document.getElementById('n').value;
+
+            const xhr = new XMLHttpRequest();
+            xhr.open('POST', 'http://localhost:3000', true);
+            xhr.setRequestHeader('X-Rand-N', n);
+
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    const randomSeries = JSON.parse(xhr.responseText);
+                    document.getElementById('randomResult').textContent = randomSeries.join(', ');
+                } else {
+                    document.getElementById('randomResult').textContent = 'Ошибка при обработке запроса';
+                }
+            };
+            xhr.send();
+        });
+    </script>
+</body>
+</html>

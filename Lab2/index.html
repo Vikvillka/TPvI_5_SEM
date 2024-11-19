@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEB5A</title>
+</head>
+<body>
+    <h1>Сумма двух чисел</h1>
+
+    <form id="sumForm">
+        <label for="x">Введите значение X:</label>
+        <input type="number" id="x" name="x" required><br><br>
+
+        <label for="y">Введите значение Y:</label>
+        <input type="number" id="y" name="y" required><br><br>
+
+        <button type="submit">Отправить</button>
+    </form>
+
+    <h2>Результат Z: <span id="result"></span></h2>
+
+    <script>
+        document.getElementById('sumForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const x = document.getElementById('x').value;
+            const y = document.getElementById('y').value;
+            
+            const xhr = new XMLHttpRequest();
+            xhr.open('POST', 'http://localhost:3000', true);
+       
+            xhr.setRequestHeader('X-Value-x', x);
+            xhr.setRequestHeader('X-Value-y', y);
+            
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    const z = xhr.getResponseHeader('X-Value-z');
+                    document.getElementById('result').textContent = z;
+                } else {
+                    document.getElementById('result').textContent = 'Ошибка при обработке запроса';
+                }
+            };
+
+            xhr.send();
+        });
+    </script>
+</body>
+</html>
