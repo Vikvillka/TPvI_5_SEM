@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\TPvI\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|d:\\5_sem_labs\\tpvi\\lab5\\lab5\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|D:\\5_SEM_LABS\\TPvI\\Lab5\\lab5\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{84229769-EF22-44DC-A874-69EBE588CDEC}|Lab5\\Lab5.csproj|solutionrelative:lab5\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheController.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Controllers\\CacheController.cs",
+              "RelativeDocumentMoniker": "Lab5\\Controllers\\CacheController.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Controllers\\CacheController.cs",
+              "RelativeToolTip": "Lab5\\Controllers\\CacheController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:04:23.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Lab5\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T20:52:31.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Program.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Program.cs",
+              "RelativeToolTip": "Lab5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:51:41.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab5\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T20:52:23.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab5\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T20:52:21.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab5\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab5\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T20:56:07.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab5\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T21:20:21.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Lab5\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T20:52:25.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lab5\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T21:20:27.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Lab5\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Lab5\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-30T20:51:38.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab5\\appsettings.json",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\appsettings.json",
+              "RelativeToolTip": "Lab5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T20:56:21.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Lab5\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\5_SEM_LABS\\TPvI\\Lab5\\Lab5\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Lab5\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-30T20:51:32.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\bin\Debug\WebDav.exe.config
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\bin\Debug\WebDav.exe
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\bin\Debug\WebDav.pdb
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\bin\Debug\WebDav.Client.dll
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\bin\Debug\WebDav.Client.pdb
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\bin\Debug\WebDav.Client.xml
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\obj\Debug\WebDav.csproj.AssemblyReference.cache
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\obj\Debug\WebDav.csproj.CoreCompileInputs.cache
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\obj\Debug\WebDav.csproj.Up2Date
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\obj\Debug\WebDav.exe
+D:\5_SEM_LABS\TPvI\Lab6\WebDav\obj\Debug\WebDav.pdb

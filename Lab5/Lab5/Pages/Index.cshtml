@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+
+    <h2>PNG Image</h2>
+    <img src="/cache/image?cache_parm=cache-control-max-age" alt="Cached Image" />
+
+    <h2>JavaScript</h2>
+    <script src="/cache/script?cache_parm=etag"></script>
+
+    <h2>CSS</h2>
+    <link rel="stylesheet" href="/cache/css?cache_parm=cache-control-max-age">
+
+    <h2>PNG Image</h2>
+    <img src="/cache/image?cache_parm=cache-control-no-store" alt="Cached Image" />
+
+    <h2>JavaScript</h2>
+    <script src="/cache/script?cache_parm=cache-control-no-store"></script>
+
+    <h2>CSS</h2>
+    <link rel="stylesheet" href="/cache/css?cache_parm=cache-control-no-cache">
+</div>
